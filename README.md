@@ -6,6 +6,8 @@ A simple desktop password generator built with Python and Tkinter.
 - Generate strong passwords
 - Copy to clipboard
 
-## How to Run
-```bash
-Passmaker.py
+## 🛠️ How to run
+1. Install Python
+2. Run: python Passmaker.py
+3. Enjoy!
+
